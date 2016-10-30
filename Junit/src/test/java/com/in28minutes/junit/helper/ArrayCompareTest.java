@@ -2,7 +2,6 @@ package com.in28minutes.junit.helper;
 
 import static org.junit.Assert.*;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 import org.junit.Test;

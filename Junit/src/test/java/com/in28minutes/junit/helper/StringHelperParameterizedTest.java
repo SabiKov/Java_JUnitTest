@@ -2,11 +2,9 @@ package com.in28minutes.junit.helper;
 
 import static org.junit.Assert.*;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collection;
 
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
